@@ -31,7 +31,7 @@ cmd: conda create -p env_name(venv used by me) python==version (in this i have u
 pip install -r requirements.txt
 
 ## Running the code
-### Run these commands in the cmd terminal 
+### Run these commands in the cmd terminal of VSCODE / any IDE (within the environment created)
 1. python Einops_module.py
 2. python UnitTest.py
 
