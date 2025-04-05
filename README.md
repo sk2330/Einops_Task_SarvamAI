@@ -20,8 +20,8 @@ The implementation consists of these main components:
   
 ## How to Run
 Clone this repository to get started:
-git clone <repository-url>
-cd <repository-folder>
+1. git clone "repository-url"
+2. cd "repository-folder"
 
 ## After cloning 
 1. Create a separate Evironment for this project
