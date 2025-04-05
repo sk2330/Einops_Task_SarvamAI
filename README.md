@@ -35,5 +35,7 @@ pip install -r requirements.txt
 1. python Einops_module.py
 2. python UnitTest.py
 
+## Colab Notebook link
+https://colab.research.google.com/drive/1AA2inpLzbLtt5dgmRliFRTly1DY9zl5h#scrollTo=xhgvqF84Zqti
 
 
