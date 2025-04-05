@@ -24,8 +24,16 @@ git clone <repository-url>
 cd <repository-folder>
 
 ## After cloning 
-Install the requirements using:
+1. Create a separate Evironment for this project
+cmd: conda create -p env_name(venv used by me) python==version (in this i have used 3.10)
+2. Activate the env using : conda activate env_name/
+3. Install the requirements using:
 pip install -r requirements.txt
+
+## Running the code
+### Run these commands in the cmd terminal 
+1. python Einops_module.py
+2. python UnitTest.py
 
 
 
